@@ -58,3 +58,5 @@ Em seguida configure as variaveis de ambiente.
 ## Contato
 
 Se tiver alguma dúvida ou sugestão relacionada a este projeto, sinta-se à vontade para entrar em contato através do email [chrystian_santos_silva@hotmail.com] ou das minhas redes sociais.
+
+![Frame 4](https://github.com/Chrystiansantos/rocketseat/assets/33062949/74483390-307d-4830-825a-f143c85a36b1)
